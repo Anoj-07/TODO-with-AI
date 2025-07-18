@@ -8,7 +8,6 @@ Welcome to the **Django Learning Project**, a simple yet powerful **ToDo applica
 
 - 🔐 User-friendly ToDo management (Create, Read, Update, Delete)
 - 🧠 **AI Integration** for smart task description generator (`ai.py`)
-- 🗂️ Categorize ToDos by **Type**
 - 🖥️ Clean UI using Django templates and partials
 -  Enable filtering and search
 - 📁 Modular structure following Django best practices
@@ -81,7 +80,7 @@ AI: groq AI
 
 - Add task deadlines and priority
 
-#### Make the UI responsive with TailwindCSS or Bootstrap
+- Make the UI responsive with  Bootstrap
 ```
 ## 💻 Getting Started
 
