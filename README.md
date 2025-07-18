@@ -60,7 +60,9 @@ The `base/ai.py` file contains logic for basic AI integration (e.g., natural lan
 
 ---
 
-### 📸 Screenshots
+#
+## 📸 demo video
+https://github.com/user-attachments/assets/b60271a7-85af-4a10-929d-41f1a45e9b86
 
 ### Tech Stack
 ```
