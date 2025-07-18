@@ -62,13 +62,10 @@ def delete_todo(request, pk):
     tod_obj.delete()
     return redirect('home')
 
-<<<<<<< HEAD
 # # AI
 # def create_description_with_ai(request):
 #     return render(request, 'create.html')
 
-=======
->>>>>>> e231df9 (delete_todo_types)
  # -------------------------------------Todo Types Views------------------------------------------------------------
 def todo_types(request):
     todo = TodoType.objects.all()
