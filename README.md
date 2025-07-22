@@ -1,6 +1,6 @@
 # 📝 Django Learning: ToDo App with AI Integration
 
-Welcome to the **Django Learning Project**, a simple yet powerful **ToDo application** enhanced with **AI capabilities**. This project is built using the Django web framework and demonstrates core features like CRUD operations, model relationships, and form handling—while also showcasing AI-assisted functionality to help generate or analyze tasks.
+Welcome to the **Django Learning Project**, a simple yet powerful **ToDo application** enhanced with **AI capabilities**. This project is built using the Django web framework and demonstrates core features like CRUD operations, model relationships, and form handling—while also showcasing AI-assisted functionality to help generate descriptions.
 
 ---
 
